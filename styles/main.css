@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;  
+}  
+body{
+    width:100vw;
+    height:100vh;
+    margin-top: 100px;
+}
+h1{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 20px;
+   
+}
+#font {
+    font-size: 5rem;
+}
+h4{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top:20px;
+    font-size:1.5rem;
+}
+a{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top:20px;
+    text-decoration: none ;
+}
+button{
+    width: 170px;
+    border:0;
+    padding: 12px 10px;
+    outline: none;
+    font-size: medium;
+}
+#back {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
