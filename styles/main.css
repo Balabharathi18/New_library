@@ -7,6 +7,7 @@ body{
     width:100vw;
     height:100vh;
     margin-top: 100px;
+    
 }
 h1{
     display: flex;
@@ -30,6 +31,7 @@ a{
     align-content: center;
     justify-content: center;
     margin-top:20px;
+    margin-bottom: 10px;
     text-decoration: none ;
 }
 button{
@@ -44,4 +46,11 @@ button{
     justify-content: center;
     align-content: center;
 }
-
+@media screen and (max-width:1200px){
+    #font{
+        font-size: 4.5vw;
+    }
+    h4{
+        font-size:1rem;
+    }
+}
