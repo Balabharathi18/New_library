@@ -58,11 +58,7 @@ button:hover{
     h1{
         font-size: 3em;
     }
-    .container1{
-        padding-left:29rem;
-        padding-top: 30px;
-       
-    }
+    
 }
 @media screen and (max-width:1200px){
     body{
@@ -77,10 +73,6 @@ button:hover{
         align-content: center;
         justify-content: center;
     }
-    button{
-        width:30rem;
-        height:7rem;
-    }
-
+  
 }
 
